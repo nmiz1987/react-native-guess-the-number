@@ -1,4 +1,4 @@
-# Guess a number
+# Guess the number
 
 In this game you can play against your own device!
 Just choose a number between 1-99, answer the question whether the number the device chose is greater or less than your number and we will see how many attempts the device needs!
